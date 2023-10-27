@@ -58,3 +58,20 @@ En esta aula aprendimos:
 ### Proyecto del aula anterior
 
 Si lo deseas, puedes descargar [aquí](https://github.com/alura-es-cursos/1756-data-science-python-pandas/raw/1756-aula4/1756-aula4.zip "aquí") el proyecto del curso en el punto donde paramos la clase anterior.
+
+### Haz lo que hicimos en el aula
+
+Llegó el momento de que tú mismo ejecutes todos los pasos que hemos realizado durante esta aula. Si ya lo has hecho, ¡excelente! Si no, es importante que realices lo que enseñé en los videos para continuar con la próxima aula.
+
+### Lo que aprendimos
+
+En esta aula aprendimos:
+
+- A utilizar *built-in functions* en Python.
+- A consultar la documentación de Python.
+- Cómo definir funciones con y sin uso de argumentos.
+- Cómo definir funciones que devuelven valores.
+
+### Proyecto del aula anterior
+
+Si lo deseas, puedes descargar [aquí](https://github.com/alura-es-cursos/1756-data-science-python-pandas/raw/1756-aula5/1756-aula5.zip "aquí") el proyecto del curso en el punto donde paramos la clase anterior.
