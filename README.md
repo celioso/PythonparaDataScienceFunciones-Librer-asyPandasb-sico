@@ -75,3 +75,24 @@ En esta aula aprendimos:
 ### Proyecto del aula anterior
 
 Si lo deseas, puedes descargar [aquí](https://github.com/alura-es-cursos/1756-data-science-python-pandas/raw/1756-aula5/1756-aula5.zip "aquí") el proyecto del curso en el punto donde paramos la clase anterior.
+
+### Haz lo que hicimos en el aula
+
+Llegó el momento de que tú mismo ejecutes todos los pasos que hemos realizado durante esta aula. Si ya lo has hecho, ¡excelente! Si no, es importante que realices lo que enseñé en los videos para continuar con la próxima aula.
+
+### Proyecto Final
+
+Si lo deseas, puedes descargar [aquí](https://github.com/alura-es-cursos/1756-data-science-python-pandas/raw/1756-ProyectoFinal/1756-ProyectoFinal.zip "aquí") el proyecto final del curso.
+
+### Lo que aprendimos
+
+En esta aula aprendimos:
+
+- **Series** y **DataFrames**, las estructuras de datos básicas de la biblioteca pandas.
+- Los métodos para crear `Series` y `DataFrames`.
+- A crear `DataFrames` a partir de datos externos.
+- Cómo hacer selecciones y cortes en un DataFrame.
+- Los métodos de selección `.loc` y `.iloc`.
+- A realizar consultas en un `DataFrame` con el método `.query()` y con matrices booleanas.
+- La forma básica de iterar sobre un DataFrame.
+- Cómo tratar datos faltantes en un DataFrame (`isna()`, `fillna()` y `dropna()`).
